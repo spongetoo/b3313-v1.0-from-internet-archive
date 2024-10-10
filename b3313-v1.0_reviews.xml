@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="b3313-v1.0">
+  <review>
+    <reviewtitle>i wonder what happens</reviewtitle>
+    <reviewbody>i wonder</reviewbody>
+    <stars>5</stars>
+    <reviewer>Stupidall</reviewer>
+    <reviewdate>2024-03-10 11:57:41</reviewdate>
+    <createdate>2024-03-10 11:57:41</createdate>
+    <reviewer_itemname>@stupidall</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>B3313 TRUE v1.0.1 (April 18th, 2024)</reviewtitle>
+    <reviewbody>Hello Kyle, I managed to get the missing B3313 version. Thanks to BikdipOnABus as he was kind enough to send me the lost patch file.
+
+I put it on the Internet Archive:
+https://archive.org/details/b3313v1.0.1
+
+Also Chlorobyte has updated all UATweaked patches for official 1.0 and added a troll where the bps patches sometimes change to versions with a corrupted Luigi model.
+
+I don't know all the changes but you can now switch characters in Nighttime Castle Grounds and difficulty scaling Goombas are fixed in every UATweaks patch.</reviewbody>
+    <stars>5</stars>
+    <reviewer>Ren Fuchsfein</reviewer>
+    <reviewdate>2024-05-02 14:41:23</reviewdate>
+    <createdate>2024-04-19 19:56:18</createdate>
+    <reviewer_itemname>@ren_fuchsfein</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>2</num_reviews>
+    <avg_rating>5.00</avg_rating>
+  </info>
+</reviews>
